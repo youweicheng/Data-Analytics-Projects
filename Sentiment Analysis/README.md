@@ -14,5 +14,5 @@
 11. LDA
 
 ## The Key Achievement: 
-Test Accuracy is 80.1%
+1. Test Accuracy is 80.1%
 
