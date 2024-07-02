@@ -5,7 +5,7 @@
 2. LSTM from Pytorch
 
 ## The hyperparameters:
-Parameters: {'hidden_size': 100, 'learning_rate': 0.01, 'epochs': 100}
+Parameters: {'hidden_size': 100, 'num_layers': 1, 'learning_rate': 0.01, 'epochs': 100}
 
 ## The Key Achievement: 
 1. Developed a Deep Neural Network model using Pytorch (LSTM) to forecast alcohol sales.
